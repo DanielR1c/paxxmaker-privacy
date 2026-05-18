@@ -31,7 +31,7 @@ This app is not directed at children under the age of 13 and does not knowingly 
 ## Contact
 If you have any questions about this privacy policy, feel free to reach out:
 
-**GitHub:** [github.com/paxx12](https://github.com/paxx12)
+**GitHub:** [github.com/DanielR1c](https://github.com/DanielR1c)
 
 ## Changes to This Policy
 This privacy policy may be updated occasionally. Changes will be reflected on this page with an updated date.
