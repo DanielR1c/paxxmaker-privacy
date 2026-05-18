@@ -18,4 +18,4 @@ CUSTOMIZABLE
 
 Freely arrange and hide tile layout Create custom GCode macros with icons and colors Firmware configuration directly from the app Calibration tools (Screws Tilt Adjust, Input Shaper) 4 languages: German, English, French, Spanish
 
-Note: This app requires the paxx12 custom firmware for the Snapmaker U1 or a Klipper-based printer. Use at your own risk. PaxxMaker U1 is a passion project developed in my spare time as a hobby. If you enjoy the app and would like to support its continued development, donations are greatly appreciated — thank you!
+Note: This app requires the paxx12 custom firmware for the Snapmaker U1 or a Klipper-based printer. Use at your own risk. PaxxMaker is a passion project developed in my spare time as a hobby. If you enjoy the app and would like to support its continued development, donations are greatly appreciated — thank you!
