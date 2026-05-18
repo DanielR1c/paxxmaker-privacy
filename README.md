@@ -1,4 +1,4 @@
-PaxxMaker U1 is the ultimate control app for your Snapmaker U1 with paxx12 custom firmware and Klipper-based single-nozzle printers. Keep track of your 3D prints at any time — directly from your iPhone and Apple Watch. PRINTER CONTROL
+PaxxMaker is the ultimate control app for your Snapmaker U1 with paxx12 custom firmware and Klipper-based single-nozzle printers. Keep track of your 3D prints at any time — directly from your iPhone and Apple Watch. PRINTER CONTROL
 
 Real-time monitoring of temperatures (extruder, bed, stepper, build chamber) Print progress with live percentage display and ETA Pause, stop, resume, and emergency stop Browse files and start prints MJPEG camera stream with flip/rotation Temperature history as a sparkline chart
 
