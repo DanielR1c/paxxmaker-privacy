@@ -1,9 +1,9 @@
-# Privacy Policy – PaxxMaker U1
+# Privacy Policy – PaxxMaker
 
 **Last updated:** May 2026
 
 ## Overview
-PaxxMaker U1 is a hobby project developed and maintained by a single developer in their spare time. This privacy policy explains how the app handles your data.
+PaxxMaker is a hobby project developed and maintained by a single developer in their spare time. This privacy policy explains how the app handles your data.
 
 ## Data Collection
 PaxxMaker U1 does **not** collect, store, or transmit any personal data to external servers.
@@ -38,7 +38,7 @@ If you have any questions about this privacy policy, feel free to reach out:
 This privacy policy may be updated occasionally. Changes will be reflected on this page with an updated date.
 ## Support
 
-PaxxMaker U1 is a hobby project maintained by a single developer.
+PaxxMaker is a hobby project maintained by a single developer.
 For questions, bug reports, or feature requests, please open an issue on GitHub:
 
 [Open a Support Issue](https://github.com/DanielR1c/paxxmaker-privacy/issues)
